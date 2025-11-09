@@ -1,4 +1,12 @@
 # Assignment-for-Research-and-Development-AI---FLAM
+Output: 
+**The Optimal parameters:
+θ = 30.000°
+M = 0.02622
+X = 55.432
+Mean L1 Distance: 25.29857**
+
+
 Given: 
 An Excel spreadsheet (xy_dataset.csv) with x and y columns, respectively.
 Parametric equation of the curve: 
